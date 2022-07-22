@@ -1,4 +1,4 @@
 # sample-email-signature
 
 This is an email signature built with HTML table and inline-CSS. 
-This signature contains clickable links, logo as well custom background.
+This signature contains clickable links.
